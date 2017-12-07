@@ -1,2 +1,2 @@
 # fisicacomputacional
-Programas feito na matéria CTJ321 - Física Computacional 
+Programas feitos na matéria CTJ321 - Física Computacional 
